@@ -1,0 +1,33 @@
+html{ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     background-color:#eedbff;
+     text-indent: 30px; 
+     font-size: 18px;
+     text-align: justify;
+    }
+
+h1{ color: rgba(33, 1, 51, 0.863); }
+
+p {
+    margin-left: 25em;
+    /* margin-right: 6em;
+    width: 6em; */
+}
+
+ul li {
+    /* padding-left: 2rem; */
+    background-image: url(image/1200px-Black_Paw.svg.png) ;    
+    background-size: 1.2rem 1.2rem;
+    background-repeat: no-repeat;  
+    margin-left: 25em;   
+  }
+
+
+.scale{
+    transition: 1s;
+}
+.scale:hover{
+    transform: scale(1.2);
+}
+
+
+
